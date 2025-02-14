@@ -7,3 +7,7 @@ if (price<10){
 else{
     console.log("not ok")
 }
+
+if (price <= 5){
+    console.log("number is equal")
+}
